@@ -1,10 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.10.18)  18 OCT 2023 21:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.10.18)  20 OCT 2023 00:27
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**f:/Programming2.0/my-CV-main/my-CV-main/main.tex
-(f:/Programming2.0/my-CV-main/my-CV-main/main.tex
+**./main.tex
+(main.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
 (C:\Users\Windows10\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -343,24 +342,17 @@ somesymbols-generic.tex)
 somesymbols-pdftex.tex))
 (C:\Users\Windows10\AppData\Local\Programs\MiKTeX\tex/generic/pdftex\glyphtouni
 code.tex)
-f:/Programming2.0/my-CV-main/my-CV-main/main.tex:73: Undefined control sequence
-.
+! Undefined control sequence.
 l.73 \Supset
             
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
+? 
 
 (C:\Users\Windows10\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend
 -pdftex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count276
 \l__pdf_internal_box=\box55
-)
-No file main.aux.
+) (main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 130.
@@ -398,6 +390,7 @@ f.mkii
 \everyMPtoPDFconversion=\toks26
 )
 Package hyperref Info: Link coloring OFF on input line 130.
+ (main.out) (main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
@@ -442,100 +435,60 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 167.
 Runaway argument?
 {\small 
-f:/Programming2.0/my-CV-main/my-CV-main/main.tex:167: Paragraph ended before \t
-ext@command was complete.
+! Paragraph ended before \text@command was complete.
 <to be read again> 
                    \par 
 l.167 
       
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-f:/Programming2.0/my-CV-main/my-CV-main/main.tex:167: Extra }, or forgotten \en
-dgroup.
+? 
+! Extra }, or forgotten \endgroup.
 <recently read> \egroup 
                         
 l.167 
       
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
+? 
 Runaway argument?
 {\small 
-f:/Programming2.0/my-CV-main/my-CV-main/main.tex:167: Paragraph ended before \t
-ext@command was complete.
+! Paragraph ended before \text@command was complete.
 <to be read again> 
                    \par 
 l.167 
       
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-f:/Programming2.0/my-CV-main/my-CV-main/main.tex:167: Extra }, or forgotten \en
-dgroup.
+? 
+! Extra }, or forgotten \endgroup.
 <recently read> \egroup 
                         
 l.167 
       
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
+? 
 Runaway argument?
 {\small 
-f:/Programming2.0/my-CV-main/my-CV-main/main.tex:183: Paragraph ended before \t
-ext@command was complete.
+! Paragraph ended before \text@command was complete.
 <to be read again> 
                    \par 
 l.183 
       
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-f:/Programming2.0/my-CV-main/my-CV-main/main.tex:183: Extra }, or forgotten \en
-dgroup.
+? 
+! Extra }, or forgotten \endgroup.
 <recently read> \egroup 
                         
 l.183 
       
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
+? 
 Runaway argument?
 {\small 
-f:/Programming2.0/my-CV-main/my-CV-main/main.tex:183: Paragraph ended before \t
-ext@command was complete.
+! Paragraph ended before \text@command was complete.
 <to be read again> 
                    \par 
 l.183 
       
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-f:/Programming2.0/my-CV-main/my-CV-main/main.tex:183: Extra }, or forgotten \en
-dgroup.
+? 
+! Extra }, or forgotten \endgroup.
 <recently read> \egroup 
                         
 l.183 
       
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
+? 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 4.08003pt, for example:
@@ -555,23 +508,17 @@ L3 programming layer <2023-08-29>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  012650DD3DAD473616F2E639BAC2280F;423.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 012650DD3DAD473616F2E639BAC2280F;423.
  ) 
 Here is how much of TeX's memory you used:
- 12212 strings out of 475247
- 192356 string characters out of 5755903
+ 12223 strings out of 475247
+ 192492 string characters out of 5755903
  1946785 words of memory out of 5000000
- 33584 multiletter control sequences out of 15000+600000
+ 33591 multiletter control sequences out of 15000+600000
  564652 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,543b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,505b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Windows10/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawes
 ome/FontAwesome.pfb><C:/Users/Windows10/AppData/Local/Programs/MiKTeX/fonts/typ
 e1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Windows10/AppData/Local/Programs/MiK
@@ -583,9 +530,9 @@ r10.pfb><C:/Users/Windows10/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
 sfonts/cm/cmsy10.pfb><C:/Users/Windows10/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Windows10/AppData/Local/Programs/MiK
 TeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (1 page, 137860 bytes).
+Output written on main.pdf (1 page, 139081 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
+ 83 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
